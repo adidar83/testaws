@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rodney Taylor Static Test site. 
 
 You can use the [editor on GitHub](https://github.com/adidar83/testaws/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### TayloredKC
+
+You know learning html again may be fun.  [TayloredKC](http://tayloredkc.com)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
